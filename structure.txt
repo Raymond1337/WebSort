@@ -1,0 +1,18 @@
+- Create a small web application that accepts any number of inputs (decided by the user)
+ 
+- show the input boxes where the user will be able to enter the values and then sort the values in ascending or descending order (decided by the user).
+Values can be all numeric, all strings or a mix of both.
+
+- Preferably all actions need to be performed on the same page.
+
+- Heavily comment your code and explain what sorting algorithm has been used.
+
+- When sending the exercise please explain how to compile and run the application.
+
+
+Webpage
+	imput
+	output
+	asc / desc radio buttons
+JS
+	sort
